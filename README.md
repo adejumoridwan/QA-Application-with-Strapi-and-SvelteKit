@@ -1,0 +1,1 @@
+# QA-Application-with-Strapi-and-SvelteKit
